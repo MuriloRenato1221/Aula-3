@@ -1,0 +1,66 @@
+body {
+margin: 20px;
+}
+header {
+    background-color: red;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+header a {
+    color: white;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav a {
+    text-align: center;
+}
+main {
+    background-color: gray;
+    height: 700px;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+p {
+    color: white;
+}
+.Divpai1 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.Divfilho1 {
+    background-color: red;
+    height: 400px;
+    width: 400px;
+    background-image:url(10-predios-mais-altos-do-Brasil.jpg) ;
+}
+.Divfilho2 {
+    background-color: red;
+    height: 400px;
+    width: 400px;
+    background-image:url(142461\,muralhas-a-beira-mar-predios-de-ate-21-andares-na-orla-de-salvador-prejudicam-lazer-e-bem-estar-da-cidade-3.jpg) ;
+}
+.Divfilho3 {
+    background-color: red;
+    height: 400px;
+    width: 400px;
+    background-image:url(hospital-da-bahia.jpg) ;
+}
+footer {
+    background-color: red;
+    height: 100px;
+}
+footer a {
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
